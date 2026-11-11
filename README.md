@@ -19,7 +19,6 @@ CMPE 255 short story assignment on the data-mining topic **autoencoder-based dee
 | Visual asset | [`assets/autoencoder-clustering-hero.png`](assets/autoencoder-clustering-hero.png) | Included |
 | Slide deck PDF | [`slides/autoencoder-deep-clustering.pdf`](slides/autoencoder-deep-clustering.pdf) | Included |
 | Presentation | [Google Slides presentation](https://docs.google.com/presentation/d/1S_bBOhCdntWs8YjYUcS7BwSzMA4ppBPl-QltstOvIX8/edit?usp=sharing) | Included |
-| Speaker notes | [`video/speaker-notes.md`](video/speaker-notes.md) | Complete |
 | 10–15 minute video | [Google Drive video folder](https://drive.google.com/drive/folders/1uVAIc63xoxc3rWNatx6-6qiUO4It1J8h?usp=sharing) | Included |
 | Medium article URL | [Published Medium article](https://medium.com/@saiswaroopdindi1/autoencoder-based-deep-clustering-learning-a-better-space-for-data-mining-7e0d259d7db7) | Added |
 | Slides URL | [Google Slides presentation](https://docs.google.com/presentation/d/1S_bBOhCdntWs8YjYUcS7BwSzMA4ppBPl-QltstOvIX8/edit?usp=sharing) | Included |
