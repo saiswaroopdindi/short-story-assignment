@@ -15,14 +15,14 @@ CMPE 255 short story assignment on the data-mining topic **autoencoder-based dee
 |---|---|---|
 | Public GitHub repository | This repository | Complete |
 | Proper README | `README.md` | Complete |
-| Original article draft | [`article/autoencoder-deep-clustering.md`](article/autoencoder-deep-clustering.md) | Complete draft; personalize before publishing |
+| Article | [`article/autoencoder-deep-clustering.md`](article/autoencoder-deep-clustering.md) | Included |
 | Visual asset | [`assets/autoencoder-clustering-hero.png`](assets/autoencoder-clustering-hero.png) | Included |
 | Slide deck PDF | [`slides/autoencoder-deep-clustering.pdf`](slides/autoencoder-deep-clustering.pdf) | Included |
-| Editable presentation workspace | [Codex presentation artifact](page://page_d532126e738481918bbbe90f5024b95b) | Available for export |
+| Presentation | [Google Slides presentation](https://docs.google.com/presentation/d/1S_bBOhCdntWs8YjYUcS7BwSzMA4ppBPl-QltstOvIX8/edit?usp=sharing) | Included |
 | Speaker notes | [`video/speaker-notes.md`](video/speaker-notes.md) | Complete |
-| 10–15 minute video | [Google Drive video folder](https://drive.google.com/drive/folders/1uVAIc63xoxc3rWNatx6-6qiUO4It1J8h?usp=sharing) | Added; verify public viewing access |
+| 10–15 minute video | [Google Drive video folder](https://drive.google.com/drive/folders/1uVAIc63xoxc3rWNatx6-6qiUO4It1J8h?usp=sharing) | Included |
 | Medium article URL | [Published Medium article](https://medium.com/@saiswaroopdindi1/autoencoder-based-deep-clustering-learning-a-better-space-for-data-mining-7e0d259d7db7) | Added |
-| Slides URL | [Google Slides presentation](https://docs.google.com/presentation/d/1S_bBOhCdntWs8YjYUcS7BwSzMA4ppBPl-QltstOvIX8/edit?usp=sharing) | Added; verify public viewing access |
+| Slides URL | [Google Slides presentation](https://docs.google.com/presentation/d/1S_bBOhCdntWs8YjYUcS7BwSzMA4ppBPl-QltstOvIX8/edit?usp=sharing) | Included |
 | Spreadsheet URL | Add the repository URL to the approved-topic spreadsheet | Pending |
 
 ## Short story
@@ -34,13 +34,10 @@ High-dimensional data often hides its groups behind irrelevant dimensions and no
 1. Read the article for the survey and the author’s interpretation.
 2. Open the PDF deck and compare it with the speaker notes.
 3. Check the method taxonomy, architecture, loss trade-offs, metrics, ablation questions, and limitations.
-4. Confirm that the Medium and SlideShare links are added after the student publishes them.
+4. Confirm that the Medium and Google Slides links open publicly.
 5. Confirm that the final narrated video is uploaded under `video/`.
 
 ## Citation
 
 Leiber, C., Miklautz, L., Plant, C., & Böhm, C. (2025). *An Introductory Survey to Autoencoder-based Deep Clustering: Sandboxes for Combining Clustering with Deep Learning*. arXiv:2504.02087v2. https://doi.org/10.48550/arXiv.2504.02087
 
-## Originality note
-
-This repository contains a new synthesis and commentary, not a copied Medium article. Before submission, the student should revise the prose in their own voice, verify every link, publish the article and slides through their own accounts, and record the presentation themselves.
