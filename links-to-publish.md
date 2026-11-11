@@ -2,8 +2,9 @@
 
 Add the final URLs here after publishing from the student’s accounts.
 
-- Medium article: `PENDING`
+- Medium article: https://medium.com/@saiswaroopdindi1/autoencoder-based-deep-clustering-learning-a-better-space-for-data-mining-7e0d259d7db7
 - SlideShare presentation: `PENDING`
+- Video folder: https://drive.google.com/drive/folders/1uVAIc63xoxc3rWNatx6-6qiUO4It1J8h?usp=sharing
 - Approved-topic spreadsheet row: `PENDING`
 - GitHub repository: https://github.com/saiswaroopdindi/short-story-assignment
 
